@@ -1,7 +1,9 @@
-# UnitConverterLib
+# UnitConverterLib - v1.0.0
 
 UnitConverterLib is a simple Java library for unit conversion, including temperature and distance conversions.  
 This project was developed as part of an academic assignment to practice creating and packaging a JAR file using Maven.
+
+
 
 ---
 
